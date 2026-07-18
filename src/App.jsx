@@ -17,7 +17,12 @@ export default function App() {
           title="On the Street in Brooklyn"
           image={redDressImage}
           imageAlt="Woman wearing a flowing red dress on a city sidewalk"
-          text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptate, quibusdam, quia, quod voluptates voluptatibus quos exercitationem quae voluptatem quas doloribus. Quisquam voluptate, quibusdam quia quod voluptates voluptatibus quos exercitationem."
+          text="Cray ipsum, dolor sit amet consectetur adipisicing elit. 
+          Repellat quidem deserunt nemo dignissimos fuga veniam inventore eligendi magnam aperiam odit mollitia cupiditate eveniet velit officiis magni aliquid, 
+          laborum dolor? Quasi? Veniam amet rerum ducimus est ea at neque alias. Temporibus perspiciatis at impedit voluptas aut voluptates facere totam aliquid debitis rerum, 
+          ex consequuntur, nulla eius quae corrupti optio atque ut. Repellendus molestiae doloribus recusandae, itaque voluptatibus placeat repellat deserunt amet eaque dignissimos, 
+          iste sapiente magnam doloremque. Fugit, cum, cupiditate aliquam, mollitia quisquam sed nulla eveniet doloribus neque optio odio qui! Id architecto impedit 
+          consequatur rem quaerat voluptatibus pariatur quas, quod quisquam quo ab molestiae."
         />
 
         <Article
@@ -26,7 +31,11 @@ export default function App() {
           title="Vintage in Vogue"
           image={threePeopleImage}
           imageAlt="Three people wearing colorful vintage-style clothing"
-          text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque exercitationem repellendus reprehenderit accusantium, voluptate animi deserunt officiis natus modi pariatur. Voluptatum, laboriosam! Dolorum exercitationem voluptatem vero doloribus, maxime quam necessitatibus."
+          text="Selfies sunt, dolor sit amet consectetur adipisicing elit. Repellat quidem deserunt nemo dignissimos fuga veniam inventore eligendi magnam 
+          aperiam odit mollitia cupiditate eveniet velit officiis magni aliquid, laborum dolor? Quasi? Veniam amet rerum ducimus est ea at neque alias. 
+          Temporibus perspiciatis at impedit voluptas aut voluptates facere totam aliquid debitis rerum, ex consequuntur, nulla eius quae corrupti optio atque ut. 
+          Repellendus molestiae doloribus recusandae, itaque voluptatibus placeat repellat deserunt amet eaque dignissimos, iste sapiente magnam doloremque. 
+          Fugit, cum, cupiditate aliquam, mollitia quisquam sed nulla eveniet doloribus neque optio odio qui! Id architecto impedit consequatur rem quaerat voluptatibus pariatur quas."
         />
 
       </main>
